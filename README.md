@@ -1,6 +1,6 @@
 
 # Llannelongue's Website
 
-Visit **[llannelongue.github.io/website-lannelongue-group](https://llannelongue.github.io/website-lannelongue-group)** 🚀
+Visit **[lannelongue-group.org](http://lannelongue-group.org)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
