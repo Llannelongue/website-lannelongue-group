@@ -1,247 +1,427 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s43588-024-00726-0
+  title: Modeling the increase of electronic waste due to generative AI
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Lo\xEFc Lannelongue"
+  publisher: Nature Computational Science
+  date: '2024-11-08'
+  link: https://doi.org/g8vm3c
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.5281/ZENODO.13938809
+  title: The Heidelberg Agreement on Environmental Sustainability in Research Funding
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Philipp M. Weber
+  - Sandra Bendiscioli
+  - Gerlind Wallon
+  - Uwe von Ahsen
+  - Anne Marie de Beaufort
+  - Marion Boland
+  - Florijn Dekkers
+  - Dominique Dunon-Bluteau
+  - Martin Farley
+  - Alyson Fox
+  - "St\xE9phane Guillot"
+  - "Lo\xEFc Lannelongue"
+  - "Marta \u0141azarowicz-Kowalik"
+  - Brendan Rouse
+  - Gabrielle Samuel
+  - Teresa Sanchis
+  - Susan Simon
+  - Mathew Tata
+  - Gisou van der Goot
+  - Fiona M. Watt
+  publisher: Zenodo
+  date: '2024-10-22'
+  link: https://doi.org/g8vpsk
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1002/hbm.70003
+  title: Measuring and reducing the carbon footprint of <scp>fMRI</scp> preprocessing
+    in <scp>fMRIPrep</scp>
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Nicholas E. Souter
+  - Nikhil Bhagwat
+  - Chris Racey
+  - Reese Wilkinson
+  - Niall W. Duncan
+  - Gabrielle Samuel
+  - "Lo\xEFc Lannelongue"
+  - Raghavendra Selvan
+  - Charlotte L. Rae
+  publisher: Human Brain Mapping
+  date: '2024-08-15'
+  link: https://doi.org/g8vm3d
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.31219/osf.io/k8gte
+  title: Comparing the carbon footprint of fMRI data processing and analysis approaches
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Nicholas Edward Souter
+  - Chris Racey
+  - Nikhil Bhagwat
+  - Reese Wilkinson
+  - Niall W Duncan
+  - Gabby Samuel
+  - "Lo\xEFc Lannelongue"
+  - Raghavendra Selvan
+  - Charlotte Rae
+  publisher: Center for Open Science
+  date: '2024-07-16'
+  link: https://doi.org/g8vm3f
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1093/bioinformatics/btae012
+  title: "Pitfalls of machine learning models for protein\u2013protein interaction\
+    \ networks"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Lo\xEFc Lannelongue"
+  - Michael Inouye
+  publisher: Bioinformatics
+  date: '2024-01-10'
+  link: https://doi.org/g8vm3g
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1038/s41561-023-01369-y
+  title: Prioritize environmental sustainability in use of AI and data science methods
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Caroline Jay
+  - Yurong Yu
+  - Ian Crawford
+  - Scott Archer-Nicholls
+  - Philip James
+  - Ann Gledson
+  - Gavin Shaddick
+  - Robert Haines
+  - "Lo\xEFc Lannelongue"
+  - Emily Lines
+  - Scott Hosking
+  - David Topping
+  publisher: Nature Geoscience
+  date: '2024-01-26'
+  link: https://doi.org/g8vm3h
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.31219/osf.io/wmzcq
+  title: Measuring and reducing the carbon footprint of fMRI preprocessing in fMRIPrep
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Nicholas Edward Souter
+  - Nikhil Bhagwat
+  - Chris Racey
+  - Reese Wilkinson
+  - Niall W Duncan
+  - Gabby Samuel
+  - "Lo\xEFc Lannelongue"
+  - Raghavendra Selvan
+  - Charlotte Rae
+  publisher: Center for Open Science
+  date: '2024-01-19'
+  link: https://doi.org/g8vm3j
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/cshperspect.a041473
+  title: Environmental Impacts of Machine Learning Applications in Protein Science
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - "Lo\xEFc Lannelongue"
+  - Michael Inouye
+  publisher: Cold Spring Harbor Perspectives in Biology
+  date: '2023-12-01'
+  link: https://doi.org/g8vm3k
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: sources.py
-  file: sources.yaml
+  file: sources_publications.yaml
+  researchPage: true
+  type: book
+- id: doi:10.1162/imag_a_00043
+  title: Ten recommendations for reducing the carbon footprint of research computing
+    in human neuroimaging
+  authors:
+  - Nicholas E. Souter
+  - "Lo\xEFc Lannelongue"
+  - Gabrielle Samuel
+  - Chris Racey
+  - Lincoln J. Colling
+  - Nikhil Bhagwat
+  - Raghavendra Selvan
+  - Charlotte L. Rae
+  publisher: Imaging Neuroscience
+  date: '2023-12-01'
+  link: https://doi.org/g8vm3m
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/7q5mh
+  title: Ten recommendations for reducing the carbon footprint of research computing
+    in human neuroimaging
+  authors:
+  - Nicholas Edward Souter
+  - "Lo\xEFc Lannelongue"
+  - Gabby Samuel
+  - Chris Racey
+  - Lincoln J Colling
+  - Nikhil Bhagwat
+  - Raghavendra Selvan
+  - Charlotte Rae
+  publisher: Center for Open Science
+  date: '2023-08-08'
+  link: https://doi.org/g8vm3n
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43588-023-00461-y
+  title: GREENER principles for environmentally sustainable computational science
+  authors:
+  - "Lo\xEFc Lannelongue"
+  - Hans-Erik G. Aronson
+  - Alex Bateman
+  - Ewan Birney
+  - Talia Caplan
+  - Martin Juckes
+  - Johanna McEntyre
+  - Andrew D. Morris
+  - Gerry Reilly
+  - Michael Inouye
+  publisher: Nature Computational Science
+  date: '2023-06-26'
+  link: https://doi.org/mkpz
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: sources.py
+  file: sources_publications.yaml
+  researchPage: true
+  image: images/publications/GREENER1.png
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - perspective
+- id: doi:10.1038/s41586-023-05844-9
+  title: An atlas of genetic scores to predict multi-omic traits
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Yu Xu
+  - Scott C. Ritchie
+  - Yujian Liang
+  - Paul R. H. J. Timmers
+  - Maik Pietzner
+  - "Lo\xEFc Lannelongue"
+  - Samuel A. Lambert
+  - Usman A. Tahir
+  - Sebastian May-Wilson
+  - Carles Foguet
+  - "\xC5sa Johansson"
+  - Praveen Surendran
+  - Artika P. Nath
+  - Elodie Persyn
+  - James E. Peters
+  - Clare Oliver-Williams
+  - Shuliang Deng
+  - Bram Prins
+  - "Jian\u2019an Luan"
+  - Lorenzo Bomba
+  - Nicole Soranzo
+  - Emanuele Di Angelantonio
+  - Nicola Pirastu
+  - E. Shyong Tai
+  - Rob M. van Dam
+  - Helen Parkinson
+  - Emma E. Davenport
+  - Dirk S. Paul
+  - Christopher Yau
+  - Robert E. Gerszten
+  - "Anders M\xE4larstig"
+  - John Danesh
+  - Xueling Sim
+  - Claudia Langenberg
+  - James F. Wilson
+  - Adam S. Butterworth
+  - Michael Inouye
+  publisher: Nature
+  date: '2023-03-29'
+  link: https://doi.org/gr2rx6
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s43586-023-00202-5
+  title: Carbon footprint estimation for computational research
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - "Lo\xEFc Lannelongue"
+  - Michael Inouye
+  publisher: Nature Reviews Methods Primers
+  date: '2023-02-16'
+  link: https://doi.org/gt5fdx
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  file: sources_publications.yaml
+  researchPage: true
+  type: paper
+  tags:
+  - methods primer
+- id: doi:10.1101/2022.04.17.488593
+  title: An atlas of genetic scores to predict multi-omic traits
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Yu Xu
+  - Scott C. Ritchie
+  - Yujian Liang
+  - Paul R. H. J. Timmers
+  - Maik Pietzner
+  - "Lo\xEFc Lannelongue"
+  - Samuel A. Lambert
+  - Usman A. Tahir
+  - Sebastian May-Wilson
+  - "\xC5sa Johansson"
+  - Praveen Surendran
+  - Artika P Nath
+  - Elodie Persyn
+  - James E. Peters
+  - Clare Oliver-Williams
+  - Shuliang Deng
+  - Bram Prins
+  - Carles Foguet
+  - "Jian\u2019an Luan"
+  - Lorenzo Bomba
+  - Nicole Soranzo
+  - Emanuele Di Angelantonio
+  - Nicola Pirastu
+  - E Shyong Tai
+  - Rob M van Dam
+  - Emma E Davenport
+  - Dirk S. Paul
+  - Christopher Yau
+  - Robert E. Gerszten
+  - "Anders M\xE4larstig"
+  - John Danesh
+  - Xueling Sim
+  - Claudia Langenberg
+  - James F. Wilson
+  - Adam S. Butterworth
+  - Michael Inouye
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-17'
+  link: https://doi.org/gpxcz3
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msac034
+  title: The Carbon Footprint of Bioinformatics
+  authors:
+  - Jason Grealey
+  - "Lo\xEFc Lannelongue"
+  - Woei-Yuh Saw
+  - Jonathan Marten
+  - "Guillaume M\xE9ric"
+  - Sergio Ruiz-Carmona
+  - Michael Inouye
+  publisher: Molecular Biology and Evolution
+  date: '2022-02-10'
+  link: https://doi.org/gspqhz
+  orcid: 0000-0002-9135-1345
+  loic: true
   plugin: sources.py
-  file: sources.yaml
+  file: sources_publications.yaml
+  researchPage: true
+  type: paper
+  tags:
+  - research
+- id: doi:10.1101/2022.02.07.479382
+  title: Pitfalls of machine learning models for protein-protein interactions
+  authors:
+  - "Lo\xEFc Lannelongue"
+  - Michael Inouye
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-08'
+  link: https://doi.org/gsz4z7
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1009324
+  title: Ten simple rules to make your computing more environmentally sustainable
+  authors:
+  - "Lo\xEFc Lannelongue"
+  - Jason Grealey
+  - Alex Bateman
+  - Michael Inouye
+  publisher: PLOS Computational Biology
+  date: '2021-09-20'
+  link: https://doi.org/gmxz77
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: sources.py
+  file: sources_publications.yaml
+  researchPage: true
+  type: paper
+  tags:
+  - guidelines
+- id: doi:10.1002/advs.202100707
+  title: 'Green Algorithms: Quantifying the Carbon Footprint of Computation'
+  authors:
+  - "Lo\xEFc Lannelongue"
+  - Jason Grealey
+  - Michael Inouye
+  publisher: Advanced Science
+  date: '2021-05-02'
+  link: https://doi.org/gm2snp
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: sources.py
+  file: sources_publications.yaml
+  researchPage: true
+  image: https://onlinelibrary.wiley.com/cms/asset/a28edac8-e085-4858-9b5f-f1e42deaf570/advs2603-fig-0001-m.jpg
+  type: paper
+  description: The flagship paper of the Green Algorithms project introducting the
+    online calculator.
+  buttons:
+  - type: website
+    text: Tool
+    link: http://calculator.green-algorithms.org
+  tags:
+  - research
+- id: pmid:31541785
+  title: "Triplex doppler ultrasonography to describe the uterine arteries\_during\
+    \ diestrus and progesterone profile in pregnant and\_non-pregnant bitches of different\
+    \ sizes."
+  authors:
+  - J Roos
+  - C Aubanel
+  - Z Niewiadomska
+  - L Lannelongue
+  - C Maenhoudt
+  - A Fontbonne
+  publisher: Theriogenology
+  date: '2019-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31541785
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31196452
+  title: Gene Regulatory Networks to Explain Coronary Artery Disease Heritability.
+  authors:
+  - Michael Inouye
+  - "Lo\xEFc Lannelongue"
+  publisher: Journal of the American College of Cardiology
+  date: '2019-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31196452
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml

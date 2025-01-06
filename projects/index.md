@@ -1,27 +1,34 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Research, tools, policy work, frameworks and more.
 ---
+
+<!-- TODO create dedicated page discussing "funders" projects -->
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects are a combination of open-source tools, sustainability research projects, and policy work, all aiming to enable and promote sustainable computing.
+
+{% comment %}
 
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
+{% endcomment %}
+
+{% include list.html component="card" data="projects" filter="group == 'current'" %}
+
+{% comment %}
+
 {% include section.html %}
 
-## Featured
+## Previous
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+Before starting his lab, Loïc worked on several projects
 
-{% include section.html %}
+{% include list.html component="card" data="projects" filter="group == 'concluded'" style="small" %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% endcomment %}

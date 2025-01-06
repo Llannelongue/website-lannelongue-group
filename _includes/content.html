@@ -5,6 +5,8 @@
   - filter out blank sections
 -->
 
+<!-- Edited from template - 6/01/2025 -->
+
 {% assign content = include.content %}
 
 {% assign sections = content | split: "<!-- section break -->" | array_filter %}
@@ -16,6 +18,7 @@
     | default: nil
   %}
   {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
+  {% assign highlight = section | regex_scan: "highlight: (.*);" | default: "false" %}
 
   <section
     class="background"
@@ -25,6 +28,10 @@
     {% endif %}
     {% if image %}
       style="--image: url('{{ image | relative_url | uri_escape }}')"
+    {% endif %}
+    {% if highlight == "true" %}
+      style="background: {{ site.background_section_highlight }}"
+      data-dark="true"
     {% endif %}
   >
     {{ section }}

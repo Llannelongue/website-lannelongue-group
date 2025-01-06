@@ -26,6 +26,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+new:
+  icon: fa-solid fa-circle-plus
+  description: We are recruiting!
+
 # general
 
 link:
@@ -151,6 +155,10 @@ warning:
 error:
   icon: fa-solid fa-ban
   color: "#ef4444"
+
+recruiting:
+  icon: fa-solid fa-user-plus
+  color: "#0ea5e9"
 
 # publications
 

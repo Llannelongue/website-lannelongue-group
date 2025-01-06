@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: Llannelongue
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Lannelongue group
+subtitle: University of Cambridge, UK
+description: >
+  We tackle the environmental impacts of computing and promote
+  Environmentally Sustainable Computational Science.
+header: images/generic_images/background_stripes.png
+footer: images/generic_images/background_stripes.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Llannelongue.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Llannelongue
-  twitter: Llannelongue
-  youtube: Llannelongue
+  email: ll582@medschl.cam.ac.uk
+  orcid: 0000-0002-9135-1345
+  google-scholar: VRr3DlcAAAAJ
+  bluesky: loiclnlg.bsky.social
 
 ### jekyll settings
 

@@ -1,0 +1,43 @@
+# - id: doi:10.1038/s43588-024-00726-0
+#   remove: true
+
+- id: doi:10.1101/cshperspect.a041473 # Environmental Impacts of Machine Learning Applications in Protein Science
+  researchPage: true
+  type: book
+
+- id: doi:10.1038/s43588-023-00461-y # GREENER principles
+  researchPage: true
+  image: images/publications/GREENER1.png
+  type: paper
+  tags:
+    - perspective
+
+- id: doi:10.1038/s43586-023-00202-5 # Carbon footprint estimation for computational research
+  researchPage: true
+  type: paper
+  tags:
+    - methods primer
+
+- id: doi:10.1093/molbev/msac034 # The Carbon Footprint of Bioinformatics
+  researchPage: true
+  type: paper
+  tags:
+    - research
+
+- id: doi:10.1371/journal.pcbi.1009324 # Ten Simple Rules
+  researchPage: true
+  type: paper
+  tags:
+    - guidelines
+
+- id: doi:10.1002/advs.202100707 # Green Algorithms
+  researchPage: true
+  image: https://onlinelibrary.wiley.com/cms/asset/a28edac8-e085-4858-9b5f-f1e42deaf570/advs2603-fig-0001-m.jpg
+  type: paper
+  description: The flagship paper of the Green Algorithms project introducting the online calculator.
+  buttons:
+    - type: website
+      text: Tool
+      link: http://calculator.green-algorithms.org
+  tags:
+    - research
