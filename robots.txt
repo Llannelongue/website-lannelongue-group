@@ -1,1 +1,1 @@
-Sitemap: https://llannelongue.github.io/website-lannelongue-group/sitemap.xml
+Sitemap: http://lannelongue-group.org/sitemap.xml
