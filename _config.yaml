@@ -8,6 +8,9 @@ header: images/generic_images/background_stripes.png
 footer: images/generic_images/background_stripes.png
 proofer: false
 
+# Some custom colours (complementing -theme.scss)
+background_section_highlight: "#386641" # dark green
+
 # site social media and other links
 links:
   email: ll582@medschl.cam.ac.uk
