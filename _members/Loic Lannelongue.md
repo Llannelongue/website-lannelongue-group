@@ -1,7 +1,7 @@
 ---
 name: Loïc Lannelongue, PhD
 image: images/team/loic-lannelongue1.jpg
-role: pi
+role: principal-investigator
 aliases:
   - L. Lannelongue
   - L Lannelongue
