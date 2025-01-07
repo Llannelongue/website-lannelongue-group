@@ -39,7 +39,7 @@ Loïc is particularly interested in understanding and mitigating the environment
 2022 &nbsp;&nbsp;&nbsp;&nbsp; PhD in Health Data Science, University of Cambridge, UK. Supervised by Prof Michael Inouye. Thesis: _Inference frameworks in computational biology: from protein-protein interaction networks using machine learning to carbon footprint estimation._ \\
 2018 &nbsp;&nbsp;&nbsp;&nbsp;  MSc in Statistical Science, University of Oxford, UK \\
 2017 &nbsp;&nbsp;&nbsp;&nbsp; _Diplôme d'Ingénieur_ (MSc) in Applied Maths, ENSAE Paris, France \\
-2016 &nbsp;&nbsp;&nbsp;&nbsp; BSc in Applied Mathematics, ENSAE Paris and Lycée Saint Louis, France \\
+2016 &nbsp;&nbsp;&nbsp;&nbsp; BSc in Applied Mathematics, ENSAE Paris and Lycée Saint Louis, France
 {: .leftalign}
 
 
