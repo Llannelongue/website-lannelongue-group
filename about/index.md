@@ -89,7 +89,7 @@ We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of P
 
 {% capture text %}
 
-A good (independent) guide about relocating to Cambridge is [available on MoverDB](https://moverdb.com/moving-to-cambridge-uk/).
+A good (independent) guide about relocating to Cambridge is [available on MoverDB](https://moverdb.com/moving-to-cambridge-uk/). The University also has a lot of resources for this.
 
 Cambridge is located around 55 miles north of London and has a population of ~180,000 people. Within Cambridge, most traffic is done by bike: the city is very flat and has the highest level of cycle use in the UK [apparently](https://web.archive.org/web/20090605201526/http://www.statistics.gov.uk/CCI/SearchRes.asp?term=KS15&btnSubmit=Search)).
 
@@ -111,6 +111,13 @@ Transports: there are direct trains to London King's Cross (50min) and Stansted 
   image="images/cambridge/map_UK-Cambridge.png"
   text=text
 %}
+
+<details markdown="1">
+<summary>University Accommodation Service</summary>
+
+The University Accommodation Service helps staff, students and visiting scholars who are affiliated to the University in their search for suitable accommodation in Cambridge. The dedicated accommodation team can provide access to a wide range of University-owned furnished and unfurnished properties, and has a database of private sector accommodation available for short and long-term lets. For further information and to register with this free service please visit [accommodation.cam.ac.uk](https://www.accommodation.cam.ac.uk/).
+
+</details>
 
 The BRC is at the centre of an immense amount of industry and academic activity. Ten minutes north is the Cambridge Station tech precinct which houses leading data science and AI companies, such as Microsoft Research, Amazon, Apple and Samsung AI. A short bus/cab ride south is the Wellcome Genome Campus, home to the Wellcome Sanger Institute, EMBL European Bioinformatics Institute, Genomics England and others. A 45 minute train south is the London King's Cross tech precinct, which includes the Alan Turing Institute, Google's London Headquarters, DeepMind and the Francis Crick Institute.
 
