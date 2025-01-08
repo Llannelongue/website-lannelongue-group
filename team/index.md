@@ -23,6 +23,6 @@ We are looking for a diverse group of people to bring new and unique perspective
 
 {% include section.html %}
 
-## Affiliated members
+<!-- ## Affiliated members -->
 
   {% include list.html data="members" component="portrait" filter="role == 'mascot'" style="small" %}
