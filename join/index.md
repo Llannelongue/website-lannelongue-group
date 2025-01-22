@@ -84,12 +84,17 @@ This post will suit researchers interested in understanding computers energy usa
 
 {% capture text %}
 
-This post will suit researchers interested in improving our understanding and mitigating the environmental impacts of scientific computing. You will lead projects improving how computing environmental impacts are currently estimated and reported and investigate the impact of growing scientific fields through targeted case studies (e.g. population-scale whole-genome sequencing, artificial intelligence). In particular, you will explore ways to better integrate life-cycle analyses in these estimations, expand environmental impacts beyond carbon footprints, and quantify the estimates’ uncertainty.
+The post will suit researchers interested in improving our understanding, and mitigating, the environmental impacts of scientific computing. Your primary role will be to lead projects improving how computing environmental impacts are currently estimated and reported and investigate the impact of high-impact computational tools in AI and/or computational biology. The appointed researcher will have research interests aligned with those of our groups and the freedom to develop their own ideas for new research. Initial possibilities for research projects include:
+- Studying the impact of scientific tools expected to become prominent in coming years through targeted case studies, in particular in the fields of artificial intelligence and/or computational biology.
+- Exploring ways to better integrate life-cycle analyses in impact estimates and expanding environmental impacts beyond carbon footprint.
+- Quantifying the different estimates’ uncertainty and finding the best ways to report them in tools such as the Green Algorithms calculator.
+
+__This is a more flexible research position, if you think you would be a good fit, feel free to reach out and suggest your own research questions linked to the topics above.__
 
 {%
   include button.html
-  link=""
-  text="Link to advert coming soon"
+  link="https://www.jobs.cam.ac.uk/job/49106/"
+  text="Advert on Cambridge job portal"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -99,7 +104,7 @@ This post will suit researchers interested in improving our understanding and mi
 
 {%
   include feature.html
-  link=""
+  link="https://www.jobs.cam.ac.uk/job/49106/"
   image="images/generic_images/hiring.jpg"
   title="2. Researcher in Sustainable Computational Science"
   text=text
