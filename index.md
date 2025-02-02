@@ -10,7 +10,7 @@ header: images/generic_images/banner_greenComputing1.jpg
 Among other things, we build and maintain tools for carbon footprint estimation (through the [Green Algorithms project](https://www.green-algorithms.org)), study their effectiveness in improving sustainability, research the environmental impacts of modern science, and manage the [Green DiSC](https://www.software.ac.uk/GreenDiSC) certification scheme.
 
 {% capture recruit %}
-The group is launching in February 2025... __and recruiting now!__ Check out the open positions [here](join).
+__We are recruiting now!__ Check out the open positions [here](join).
 {% endcapture %}
 
 {%

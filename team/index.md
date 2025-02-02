@@ -10,12 +10,14 @@ nav:
 
   {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+  {% include list.html data="members" component="portrait" filter="group == 'current-members'" %}
+
   {% include list.html data="members" component="portrait" filter="role == 'new'" %}
 
 
 {% include section.html highlight=true %}
 
-#### The Lannelongue group is launching in February 2025...and recruiting now!
+#### The Lannelongue group is recruiting now!
 
 We are looking for a diverse group of people to bring new and unique perspectives to the different projects of the group.
 
