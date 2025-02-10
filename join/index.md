@@ -18,7 +18,7 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 ## Current opportunities
 
 {% capture info %}
-  __We currently have 2 open research positions.__ This is a great opportunity to expand the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
+  __We currently have 1 open research positions, closing date 17/02.__ This is a great opportunity to expand the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
 {% endcapture %}
 
 {%
@@ -51,35 +51,6 @@ _These research roles can be appointed whether at Research Associate level (i.e.
 
 {% include section.html highlight=true dark=true %}
 
-<!-- JOB 1 -->
-
-{% capture text %}
-
-This post will suit researchers interested in understanding computers energy usage to improve carbon footprint monitoring and reduce the environmental impacts of digital activities. You will lead projects modelling the energy usage of different computing equipment (personal computers, servers, High-Performance Computing infrastructure) for different scientific applications, including simulations, large-scale data analyses and AI. This will involve designing test protocols, building test benches and running simulations to improve on existing power usage models. [\[Further Particulars\]](https://www.jobs.cam.ac.uk/job/49117/file/Further_Particular_RH43993+V2.pdf)
-
-{%
-  include button.html
-  link="https://www.jobs.cam.ac.uk/job/49117/"
-  text="Advert on Cambridge job portal"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  link="https://www.jobs.cam.ac.uk/job/49117/"
-  image="images/generic_images/hiring.jpg"
-  title="1. Researcher in Green Computing"
-  text=text
-  flip=true
-  style="bare"
-%}
-
----
-
 <!-- JOB 2 -->
 
 {% capture text %}
@@ -106,7 +77,7 @@ __This is a more flexible research position, if you think you would be a good fi
   include feature.html
   link="https://www.jobs.cam.ac.uk/job/49106/"
   image="images/generic_images/hiring.jpg"
-  title="2. Researcher in Sustainable Computational Science"
+  title="1. Researcher in Sustainable Computational Science"
   text=text
 %}
 
