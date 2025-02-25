@@ -9,15 +9,15 @@ header: images/generic_images/banner_greenComputing1.jpg
 
 Among other things, we build and maintain tools for carbon footprint estimation (through the [Green Algorithms project](https://www.green-algorithms.org)), study their effectiveness in improving sustainability, research the environmental impacts of modern science, and manage the [Green DiSC](https://www.software.ac.uk/GreenDiSC) certification scheme.
 
-{% capture recruit %}
+<!-- {% capture recruit %}
 __We are recruiting now!__ Check out the open positions [here](join).
-{% endcapture %}
-
+{% endcapture %} -->
+<!-- 
 {%
   include alert.html
   type="recruiting"
   content=recruit
-%}
+%} -->
 
 {% include section.html %}
 
@@ -31,7 +31,7 @@ Work on the sustainability of data centres and computing hardware is not new, fo
 
 ## {% include icon.html icon="fa-solid fa-seedling" %}What we do: the Green Algorithms Initiative, Green DiSC and more.
 
-Over the past few years, we developed the [Green Algorithms Initiative](www.green-algorithms.org), a world-leading project in the field of green computing focusing on quantifying and reducing the environmental impacts of computational science. The tools and frameworks developed and maintained by the group are used internationally and include the popular Green Algorithms online calculator, server-specific monitoring tools and the GREENER Principles for Environmentally Sustainable Computational Science. The group has a strong commitment to making all tools available open access to the computing community. The Green Algorithms Initiative has received both nominations and awards for its contributions to environmentally sustainable research (e.g. HDR-UK Impact Award).
+Over the past few years, we developed the [Green Algorithms Initiative](https://www.green-algorithms.org), a world-leading project in the field of green computing focusing on quantifying and reducing the environmental impacts of computational science. The tools and frameworks developed and maintained by the group are used internationally and include the popular Green Algorithms online calculator, server-specific monitoring tools and the GREENER Principles for Environmentally Sustainable Computational Science. The group has a strong commitment to making all tools available open access to the computing community. The Green Algorithms Initiative has received both nominations and awards for its contributions to environmentally sustainable research (e.g. HDR-UK Impact Award).
 
 Our work also supports community building (through the [ESCS Community](https://www.escs-community.org), more on this soon) and funders sustainability policies (see [this European agreement](https://www.embo.org/press-releases/european-funders-and-organizations-partner-to-promote-sustainable-research/) for example).
 
