@@ -22,6 +22,10 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
+project-coordinator:
+  icon: fa-solid fa-share-nodes
+  description: Project Coordinator
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
