@@ -3,11 +3,11 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-glasses
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-microscope
   description: Postdoctoral Researcher
 
 phd:
