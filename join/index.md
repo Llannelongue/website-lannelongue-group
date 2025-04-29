@@ -17,8 +17,10 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 
 ## Current opportunities
 
+<!-- We don't currently have open positions, but we may reopen some soon. Feel free to get in touch if interested! -->
+
 {% capture info %}
-  We don't currently have open positions, but we may reopen some soon. Feel free to get in touch if interested!
+  We will open a research position at postdoc level soon, with a focus on green computing and AI. Details to come, but feel free to get in touch if interested!
 {% endcapture %}
 
 {%

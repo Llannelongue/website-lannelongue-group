@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31219/osf.io/k8gte_v2
+  title: Comparing the carbon footprint of fMRI data processing and analysis approaches
+  authors:
+  - Nicholas Edward Souter
+  - Chris Racey
+  - Nikhil Bhagwat
+  - Reese Wilkinson
+  - Niall W Duncan
+  - Gabby Samuel
+  - "Lo\xEFc Lannelongue"
+  - Raghavendra Selvan
+  - Charlotte Rae
+  publisher: Center for Open Science
+  date: '2025-04-09'
+  link: https://doi.org/g9fdtg
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s43588-024-00726-0
   title: Modeling the increase of electronic waste due to generative AI
   authors:
