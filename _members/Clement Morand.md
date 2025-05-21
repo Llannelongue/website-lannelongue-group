@@ -1,6 +1,7 @@
 ---
 name: Clément Morand
 role: phd
+image: images/team/clement-morand1.jpg
 description: PhD student @ University Paris-Saclay
 group: visitor
 links:
