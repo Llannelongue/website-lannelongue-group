@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1162/IMAG.a.36
+  title: Comparing the carbon footprint of fMRI data processing and analysis approaches
+  authors:
+  - Nicholas E. Souter
+  - Chris Racey
+  - Nikhil Bhagwat
+  - Reese Wilkinson
+  - Niall W. Duncan
+  - Gabrielle Samuel
+  - "Lo\xEFc Lannelongue"
+  - Raghavendra Selvan
+  - Charlotte L. Rae
+  publisher: Imaging Neuroscience
+  date: '2025-01-01'
+  link: https://doi.org/g9k25r
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31219/osf.io/k8gte_v2
   title: Comparing the carbon footprint of fMRI data processing and analysis approaches
   authors:
