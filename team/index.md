@@ -18,10 +18,9 @@ nav:
 
 Based in other teams or institutes, they are key contributors to our different projects!
 
-  {% include list.html data="members" component="portrait" filter="group == 'honorary'" %}
+  {% include list.html data="members" component="portrait" filter="group == 'honorary-long-term'" %}
 
-  {% include list.html data="members" component="portrait" filter="group == 'visitor'" %}
-
+  {% include list.html data="members" component="portrait" filter="group == 'honorary' or group == 'visitor'" %}
 
 {% include section.html highlight=true %}
 
