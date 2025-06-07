@@ -2,7 +2,7 @@
 name: Laurent Gil
 image: images/team/laurent-gil1.jpg
 role: programmer
-description: Software Engineer @ Wellcome Sanger Institute / University of Cambridge
+description: Principal Software Engineer @ Wellcome Sanger Institute / University of Cambridge
 group: honorary-long-term
 aliases:
   - L Gil
