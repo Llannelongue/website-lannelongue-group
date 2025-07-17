@@ -18,7 +18,7 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 ## Current opportunities
 
 {% capture info %}
-  __We currently have 1 open research positions, closing date 5/06/2025.__ This is a great opportunity to expand the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable AI.
+  __We currently have 1 open research positions, closing date 24/07/2025.__ This is a great opportunity to expand the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
 {% endcapture %}
 
 {%
@@ -38,15 +38,11 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 
 {% capture text %}
 
-This postdoctoral positition post will suit researchers interested in improving our understanding and mitigating the environmental impacts of data centres and artificial intelligence.
-Your primary role will be to lead projects improving how computing environmental impacts are currently estimated and reported and investigate the impacts of high-impact computational tools in AI. You will have research interests aligned with those of our group and the freedom to develop own ideas for new research. Initial possibilities for research projects include:
-- Studying environmental impacts of AI tools expected to become prominent in research in coming years.
-- Taking a global view on impacts of data centres and AI, encompassing environmental sustainability, human health, and perspectives from the Global South.
-- Exploring ways to better integrate life-cycle analyses in impact estimates and expanding environmental impacts beyond carbon footprint, with a focus on water usage.
+This postdoctoral position will suit researchers interested in understanding computers energy usage to improve carbon footprint monitoring and reduce the environmental impacts of digital activities. You will lead projects modelling the energy usage of different computing equipment (personal computers, servers, High-Performance Computing infrastructure) for different scientific applications, including simulations, large-scale data analyses and AI. This will involve designing test protocols, building test benches to track power and energy usage, and running simulations to improve on existing power usage models.
 
 {%
   include button.html
-  link="https://www.jobs.cam.ac.uk/job/51255/"
+  link="https://www.jobs.cam.ac.uk/job/49117/"
   text="Advert on Cambridge job portal"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -57,9 +53,9 @@ Your primary role will be to lead projects improving how computing environmental
 
 {%
   include feature.html
-  link="https://www.jobs.cam.ac.uk/job/51255/"
+  link="https://www.jobs.cam.ac.uk/job/49117/"
   image="images/generic_images/hiring.jpg"
-  title="Research Associate (postdoc) in Sustainability of AI"
+  title="Research Associate (postdoc) in Green Computing"
   text=text
 %}
 
