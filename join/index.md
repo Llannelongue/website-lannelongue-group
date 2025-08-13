@@ -13,8 +13,6 @@ We are always happy to hear from talented postdocs and PhD students, with more s
 
 As a group, we value and encourage applications from a diversity of backgrounds and experiences to contribute to the highly interdisciplinary research programme. We strongly value and encourage Equity, Diversity and Inclusion as well as a flexible working environment.
 
-_Unfortunately, we are not currently able to welcome visiting internation students in the department._
-
 {% include section.html %}
 
 ## Current opportunities
