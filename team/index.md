@@ -34,9 +34,18 @@ We are looking for a diverse group of people to bring new and unique perspective
 
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/team/2025_SSI selfie.jpeg"
+  caption="The Lannelongue group at the 2025 SSI conference in Scotland."
+  width="100%"
+%}
+
+{% include section.html %}
+
 ## Alumni
 
-Gone but not forgotten. These are past group members who have moved on to new exciting roles but have all made lasting contributions to the science we do.
+Gone but not forgotten. These are past group members or affiliates who have moved on to new exciting roles but have all made lasting contributions to the science we do.
 
   {% include list.html data="members" component="portrait" filter="group == 'alumni'" style="small" %}
 
