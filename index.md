@@ -97,9 +97,9 @@ Some of our past publications that have guided the different projects that the g
 
 <!-- Feature 3 -->
 
-<!-- {% capture text %}
+{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic scientists passionate about making computing activities more environmentally sustainable. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include button.html
@@ -114,8 +114,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/2025_SSI selfie.jpeg"
   link="team"
   title="Our Team"
   text=text
-%} -->
+%} 
