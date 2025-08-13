@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-Here are some of Loïc's publications that have guided the different projects that the group will expand on moving forward.
+Here are some of Loïc's publications that have guided the different projects that the group will expand on moving forward. See [here](/members/Loic-Lannelongue) for a full list of his publications.
 
 {% include section.html %}
 

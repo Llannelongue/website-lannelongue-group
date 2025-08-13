@@ -1,6 +1,24 @@
 # - id: doi:10.1038/s43588-024-00726-0
 #   remove: true
 
+- id: doi:10.21105/joss.08251 # CATS: The Climate Aware Task Scheduler
+  researchPage: true
+  type: package
+
+- id: doi:10.1038/s43588-024-00726-0 # Modeling the increase of electronic waste due to generative AI
+  researchPage: true
+  type: journal
+  tags:
+    - News & Views
+
+- id: doi:10.5281/ZENODO.13938809 # The Heidelberg Agreement on Environmental Sustainability in Research Funding
+  researchPage: true
+  type: policy
+
+- id: doi:10.1038/s41561-023-01369-y # Prioritize environmental sustainability in use of AI and data science methods
+  researchPage: true
+  type: paper
+
 - id: doi:10.1101/cshperspect.a041473 # Environmental Impacts of Machine Learning Applications in Protein Science
   researchPage: true
   type: book

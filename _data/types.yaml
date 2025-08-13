@@ -186,6 +186,11 @@ journal:
   text: Journal
   tooltip: Journal
 
+policy:
+  icon: fa-solid fa-landmark
+  text: Policy document
+  tooltip: Policy document
+
 preprint:
   icon: fa-regular fa-eye
   text: Preprint
