@@ -18,7 +18,7 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 ## Current opportunities
 
 {% capture info %}
-  __We currently have 1 open research positions, closing date 16/09/2025.__ This is a great opportunity to expand the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
+  __We currently have 1 open RSE position, closing date 25/11/2025.__ This is a great opportunity to enable the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
 {% endcapture %}
 
 {%
@@ -38,15 +38,19 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 
 {% capture text %}
 
-The post will suit researchers interested in tackling one of the most pressing issues in tech today: improving our understanding and mitigating the environmental impacts of artificial intelligence and data centres. Your primary role will be to lead projects improving how computing environmental impacts are currently estimated and reported and investigate the impacts of high-impact computational tools in AI. The appointed researcher will have research interests aligned with those of our group and the freedom to develop their own ideas for new research. Initial possibilities for research projects include:
+The role will be responsible for developing the team's software resources, including the next generation of carbon monitoring dashboards, and managing the existing Green Algorithms tools, ensuring they meet open-source and sustainable development best practices. In particular, the post holder's role will be to:
 
-- Studying the environmental impacts of AI tools expected to become (or continue to be) prominent in research in the coming years.
-- Taking a global view on the impacts of data centres and AI, encompassing environmental sustainability, human health, and perspectives from the Global South.
-- Exploring ways to better integrate life-cycle analyses in impact estimates and expanding environmental impacts beyond carbon footprint, with a focus on water usage in particular.
+- Develop, disseminate and maintain the existing resources as well as support the design of new emerging tools related to the group's activities. Notably, the [Green Algorithms Dashboard for HPC](https://dashboard.green-algorithms.org/login) and the popular [online calculator](https://calculator.green-algorithms.org/), ensuring that they meet software engineering best practices.
+
+- Develop both backend and frontend components of these tools, i.e. work on the architecture (e.g. databases, backend/frontend interface), user-interface (website, dashboard, API), and related software tooling.
+
+- Work closely with the Project Leads to help scope, gather requirements for, and guide on technical choices and directions.
+
+- Identify and implement opportunities to improve the performance, sustainability, and quality of the applications.
 
 {%
   include button.html
-  link="https://www.cam.ac.uk/jobs/research-associateresearch-assistant-in-sustainability-of-ai-fixed-term-rh46944"
+  link="https://www.cam.ac.uk/jobs/research-software-engineer-sustainable-computing-green-algorithms-initiative-rh47843"
   text="Advert on Cambridge job portal"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -57,9 +61,9 @@ The post will suit researchers interested in tackling one of the most pressing i
 
 {%
   include feature.html
-  link="https://www.cam.ac.uk/jobs/research-associateresearch-assistant-in-sustainability-of-ai-fixed-term-rh46944"
+  link="https://www.cam.ac.uk/jobs/research-software-engineer-sustainable-computing-green-algorithms-initiative-rh47843"
   image="images/generic_images/hiring.jpg"
-  title="Research Associate (postdoc) in Sustainability of AI"
+  title="Research Software Engineer"
   text=text
 %}
 
@@ -73,7 +77,7 @@ __With whom?__ You will be based in the Lannelongue group and work in close conj
 __How long?__ The positions are for two years in the first instance, with the possibility of extension.
 
 __How to apply?__ To submit an application for this vacancy, please click on the ‘Apply online’ section of the advertisement published on the University’s Job Opportunities pages (links for each advert above!). This will route you to the University’s Web Recruitment System, where you will need to register an account (if you have not already) and log in before completing the online application form.
-The covering letter should outline (1) why you are applying for this role, (2) how you match the criteria for the post, and (3) what research question(s) you would be interested in pursuing.
+The covering letter should outline (1) why you are applying for this role, and (2) how you match the criteria for the post.
 
 {% include section.html %}
 
