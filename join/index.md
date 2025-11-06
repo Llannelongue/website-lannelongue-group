@@ -57,7 +57,7 @@ The role will be responsible for developing the team's software resources, inclu
   style="bare"
 %}
 
-{% endcapture %}
+{% endcapture %} 
 
 {%
   include feature.html
