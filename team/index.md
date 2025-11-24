@@ -24,7 +24,7 @@ Based in other teams or institutes, they are key contributors to our different p
 
 {% include section.html highlight=true %}
 
-#### The Lannelongue group is recruiting now!
+#### The Lab is recruiting now!
 
 We are looking for a diverse group of people to bring new and unique perspectives to the different projects of the group.
 
@@ -37,7 +37,7 @@ We are looking for a diverse group of people to bring new and unique perspective
 {%
   include figure.html
   image="images/team/2025_SSI selfie.jpeg"
-  caption="The Lannelongue group at the 2025 SSI conference in Scotland."
+  caption="The Lab at the 2025 SSI conference in Scotland."
   width="100%"
 %}
 

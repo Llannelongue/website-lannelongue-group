@@ -72,7 +72,7 @@ The role will be responsible for developing the team's software resources, inclu
 
 __Where?__ The group is based in the Department of Public Health and Primary Care, one of Europe’s leading academic departments for population health sciences. It sits in the new Victor Phillip Dahdaleh Heart & Lung Research Institute on the Cambridge Biomedical Campus (Papworth Road, Trumpington, Cambridge CB2 0BB), with the option of hybrid working (full remote not possible unfortunately).
 
-__With whom?__ You will be based in the Lannelongue group and work in close conjunction with the senior scientists in the Green Algorithms Initiative, including [Prof Michael Inouye](https://www.inouyelab.org/home/people). You will also work closely with other members of the Department and scientific collaborators based in other institutions.
+__With whom?__ You will be based in the Cambridge Sustainable Computing Lab and work in close conjunction with the senior scientists in the Green Algorithms Initiative, including [Prof Michael Inouye](https://www.inouyelab.org/home/people). You will also work closely with other members of the Department and scientific collaborators based in other institutions.
 
 __How long?__ The positions are for two years in the first instance, with the possibility of extension.
 

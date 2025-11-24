@@ -108,8 +108,8 @@
   researchPage: true
   type: policy
 - id: doi:10.1002/hbm.70003
-  title: Measuring and reducing the carbon footprint of <scp>fMRI</scp> preprocessing
-    in <scp>fMRIPrep</scp>
+  title: "Measuring and reducing the carbon footprint of\n                    <scp>fMRI</scp>\n\
+    \                    preprocessing in\n                    <scp>fMRIPrep</scp>"
   authors:
   - Nicholas E. Souter
   - Nikhil Bhagwat
