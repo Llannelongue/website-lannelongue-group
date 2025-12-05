@@ -18,7 +18,7 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 ## Current opportunities
 
 {% capture info %}
-  __We currently have 1 open RSE position, closing date 25/11/2025.__ This is a great opportunity to enable the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
+  __We currently have 1 open postdoc position, closing date 8/01/2026.__ This is a great opportunity to enable the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
 {% endcapture %}
 
 {%
@@ -38,19 +38,20 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 
 {% capture text %}
 
-The role will be responsible for developing the team's software resources, including the next generation of carbon monitoring dashboards, and managing the existing Green Algorithms tools, ensuring they meet open-source and sustainable development best practices. In particular, the post holder's role will be to:
+The role will lead projects improving how computing environmental impacts are currently estimated and reported, and investigate the impacts of high-impact computational tools in AI. 
 
-- Develop, disseminate and maintain the existing resources as well as support the design of new emerging tools related to the group's activities. Notably, the [Green Algorithms Dashboard for HPC](https://dashboard.green-algorithms.org/login) and the popular [online calculator](https://calculator.green-algorithms.org/), ensuring that they meet software engineering best practices.
+We're looking for someone with a strong interest in studying the multifaceted environmental impacts of AI. No previous experience in sustainable AI research is required, it's a brand new field after all, but some knowledge of AI and environmental sustainability concepts is expected. As a group, we value and encourage applications from a diversity of backgrounds and experiences to contribute to the highly interdisciplinary research programme.
 
-- Develop both backend and frontend components of these tools, i.e. work on the architecture (e.g. databases, backend/frontend interface), user-interface (website, dashboard, API), and related software tooling.
+Initial possibilities for research projects could include:
+- Studying the environmental impacts of AI tools expected to become (or continue to be) prominent in research in the coming years.
+- Taking a global view on the impacts of data centres and AI, encompassing environmental sustainability, human health, and perspectives from the Global South.
+- Exploring ways to better integrate life-cycle analyses in impact estimates and expanding environmental impacts beyond carbon footprint, with a focus on water usage in particular.
 
-- Work closely with the Project Leads to help scope, gather requirements for, and guide on technical choices and directions.
-
-- Identify and implement opportunities to improve the performance, sustainability, and quality of the applications.
+⏳ __Closing January 8th, 2026__
 
 {%
   include button.html
-  link="https://www.cam.ac.uk/jobs/research-software-engineer-sustainable-computing-green-algorithms-initiative-rh47843"
+  link="https://www.cam.ac.uk/jobs/research-associate-fixed-term-rh48121"
   text="Advert on Cambridge job portal"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -61,9 +62,9 @@ The role will be responsible for developing the team's software resources, inclu
 
 {%
   include feature.html
-  link="https://www.cam.ac.uk/jobs/research-software-engineer-sustainable-computing-green-algorithms-initiative-rh47843"
+  link="https://www.cam.ac.uk/jobs/research-associate-fixed-term-rh48121"
   image="images/generic_images/hiring.jpg"
-  title="Research Software Engineer"
+  title="Research Associate"
   text=text
 %}
 
