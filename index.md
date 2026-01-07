@@ -114,7 +114,7 @@ We are a team of enthusiastic scientists passionate about making computing activ
 
 {%
   include feature.html
-  image="images/team/2025_SSI selfie.jpeg"
+  image="images/team/2026_Christmas dinner.jpg"
   link="team"
   title="Our Team"
   text=text

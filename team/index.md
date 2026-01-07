@@ -36,8 +36,8 @@ We are looking for a diverse group of people to bring new and unique perspective
 
 {%
   include figure.html
-  image="images/team/2025_SSI selfie.jpeg"
-  caption="The Lab at the 2025 SSI conference in Scotland."
+  image="images/team/2026_Christmas dinner.jpg"
+  caption="The Lab's 2025 Christmas dinner'."
   width="100%"
 %}
 
