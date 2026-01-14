@@ -9,7 +9,9 @@ nav:
 
 {% include section.html%}
 
-We are always happy to hear from talented postdocs and PhD students, with more specific current opportunities advertised below and on [Cambridge job portal](https://www.jobs.cam.ac.uk). Interested students should read about [postgraduates studies at Cambridge](https://www.postgraduate.study.cam.ac.uk/). More about Cambridge in the [About section](/about/#about-cambridge).
+We are always happy to hear from talented researchers, with more specific current opportunities advertised below and on [Cambridge job portal](https://www.jobs.cam.ac.uk). More about Cambridge in the [About section](/about/#about-cambridge).
+
+Prospective PhD students interested in doing a PhD with us should read about [postgraduates studies at Cambridge](https://www.postgraduate.study.cam.ac.uk/). All admissions are through the [Department's PhD programme](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc) (don't worry about the title, this is just because of which department we're affiliated with). You are welcome to simply apply through the portal. If you want to discuss a potential PhD project with Loïc, you can email him directly with a CV and a summary of relevant experience and research interests that align with the group.
 
 As a group, we value and encourage applications from a diversity of backgrounds and experiences to contribute to the highly interdisciplinary research programme. We strongly value and encourage Equity, Diversity and Inclusion as well as a flexible working environment.
 
@@ -18,7 +20,7 @@ As a group, we value and encourage applications from a diversity of backgrounds 
 ## Current opportunities
 
 {% capture info %}
-  __We currently have 1 open postdoc position, closing date 8/01/2026.__ This is a great opportunity to enable the work of the Green Algorithms Initiative and be at the forefront of Environmentally Sustainable Computational Science.
+  __We don't currently have open positions.__ We will update this page in the future if positions become available; all our openings are posted on the [Cambridge job portal](https://www.jobs.cam.ac.uk).
 {% endcapture %}
 
 {%
@@ -27,60 +29,6 @@ As a group, we value and encourage applications from a diversity of backgrounds 
   content=info
 %}
 
-{%
-  include button.html
-  type="email"
-  text="Informal enquiries are welcome, email Loïc with a CV."
-  link="ll582@medschl.cam.ac.uk"
-%}
-
-{% include section.html highlight=true dark=true %}
-
-{% capture text %}
-
-The role will lead projects improving how computing environmental impacts are currently estimated and reported, and investigate the impacts of high-impact computational tools in AI. 
-
-We're looking for someone with a strong interest in studying the multifaceted environmental impacts of AI. No previous experience in sustainable AI research is required, it's a brand new field after all, but some knowledge of AI and environmental sustainability concepts is expected. As a group, we value and encourage applications from a diversity of backgrounds and experiences to contribute to the highly interdisciplinary research programme.
-
-Initial possibilities for research projects could include:
-- Studying the environmental impacts of AI tools expected to become (or continue to be) prominent in research in the coming years.
-- Taking a global view on the impacts of data centres and AI, encompassing environmental sustainability, human health, and perspectives from the Global South.
-- Exploring ways to better integrate life-cycle analyses in impact estimates and expanding environmental impacts beyond carbon footprint, with a focus on water usage in particular.
-
-⏳ __Closing January 8th, 2026__
-
-{%
-  include button.html
-  link="https://www.cam.ac.uk/jobs/research-associate-fixed-term-rh48121"
-  text="Advert on Cambridge job portal"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  link="https://www.cam.ac.uk/jobs/research-associate-fixed-term-rh48121"
-  image="images/generic_images/hiring.jpg"
-  title="Research Associate"
-  text=text
-%}
 
 
-{% include section.html %}
 
-__Where?__ The group is based in the Department of Public Health and Primary Care, one of Europe’s leading academic departments for population health sciences. It sits in the new Victor Phillip Dahdaleh Heart & Lung Research Institute on the Cambridge Biomedical Campus (Papworth Road, Trumpington, Cambridge CB2 0BB), with the option of hybrid working (full remote not possible unfortunately).
-
-__With whom?__ You will be based in the Cambridge Sustainable Computing Lab and work in close conjunction with the senior scientists in the Green Algorithms Initiative, including [Prof Michael Inouye](https://www.inouyelab.org/home/people). You will also work closely with other members of the Department and scientific collaborators based in other institutions.
-
-__How long?__ The positions are for two years in the first instance, with the possibility of extension.
-
-__How to apply?__ To submit an application for this vacancy, please click on the ‘Apply online’ section of the advertisement published on the University’s Job Opportunities pages (links for each advert above!). This will route you to the University’s Web Recruitment System, where you will need to register an account (if you have not already) and log in before completing the online application form.
-The covering letter should outline (1) why you are applying for this role, and (2) how you match the criteria for the post.
-
-{% include section.html %}
-
-### About the Green Algorithms Initiative
-The Green Algorithms Initiative is a world-leading project in the field of green computing focusing on quantifying and reducing the environmental impacts of computational science. The tools and frameworks developed and maintained by the group are used internationally and include the popular Green Algorithms online calculator, server-specific monitoring tools and the GREENER Principles for Environmentally Sustainable Computational Science. The group has a strong commitment to making all tools available open access to the computing community. The Green Algorithms Initiative has received both nominations and awards for its contributions to environmentally sustainable research (e.g. HDR-UK Impact Award). More info on the [project's website](www.green-algorithms.org).
