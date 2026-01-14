@@ -9,7 +9,6 @@ aliases:
   - Loic Lannelongue
 links:
   orcid: 0000-0002-9135-1345
-  home-page: https://lannelongue-group.org
   email: ll582@medschl.cam.ac.uk
   google-scholar: VRr3DlcAAAAJ
   bluesky: loiclnlg.bsky.social
@@ -20,19 +19,26 @@ Loïc is particularly interested in understanding and mitigating the environment
 
 ### Current roles
 
-2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Assistant Research Professor, Dept of Public Health & Primary Care, University of Cambridge \\
+__2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Assistant Research Professor, Dept of Public Health & Primary Care, University of Cambridge__ \\
+2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Bye-Fellow & Director of Studies in Computer Science (Part II), Jesus College, Cambridge \\
+2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; NetDRIVE Champion for Transformational Change \\
 2024 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Visiting Scientist, EMBL-EBI (European Bioinformatic Institute) \\
-2024 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Chair, ISCB Green task force (International Society of Computational Biology) \\
-2023 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Fellow, Software Sustainability Institute \\
-2022 - ...  &nbsp;&nbsp;&nbsp;&nbsp; College Associate, Jesus College, Cambridge
+2023 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Fellow, Software Sustainability Institute 
+
 {: .leftalign}
 
-### Previous roles
+<details markdown="1">
+<summary>Previous roles</summary>
 
-2022 - 2024  &nbsp;&nbsp;&nbsp;&nbsp; Research Associate, Department of Public Health & Primary Care, University of Cambridge \\
-2023 - 2024 &nbsp;&nbsp;&nbsp;&nbsp; Member, ISCB Green task force (International Society of Computational Biology) \\
+2022 - 2025  &nbsp;&nbsp;&nbsp;&nbsp; College Associate, Jesus College, Cambridge \\
+2022 - 2024  &nbsp;&nbsp;&nbsp;&nbsp; * Research Associate, Dept of Public Health & Primary Care, University of Cambridge \\
 2022 - 2023 &nbsp;&nbsp;&nbsp;&nbsp; Associate of the Senior Common Room, King's College, Cambridge
+
+_* denotes main (full time) positions_
+
 {: .leftalign}
+
+</details>
 
 ### Education
 
@@ -48,13 +54,15 @@ Loïc is particularly interested in understanding and mitigating the environment
 <details markdown="1">
 <summary>Short biography for talks</summary>
 
-Dr Loïc Lannelongue is an Assistant Research Professor at the University of Cambridge focusing on environmentally sustainable computing and based in the Heart and Lung Research Institute in Cambridge, UK. He leads the Green Algorithms initiative which promotes more environmentally sustainable computational science. He also manages the Green DiSC certification framework for sustainable computing. His research interests also include radiogenomics, i.e. combining medical imaging and genetic information with machine learning to better understand and treat cardiovascular diseases. He is a Software Sustainability Institute Fellow, a College Associate at Jesus College, Cambridge, a visiting scientist at the European Bioinformatic Institute (EMBL-EBI) and an Associate Fellow of the Higher Education Academy.
+Dr Loïc Lannelongue is an Assistant Research Professor at the University of Cambridge where he leads the Cambridge Sustainable Computing Lab, a research group studying the environmental impacts of computing. Passionate about environmental sustainability and responsible science, he is involved in both research and policy internationally. Among other things, he leads the Green Algorithms initiative and manages the Green DiSC certification framework for sustainable computing. He is a Software Sustainability Institute Fellow, a visiting scientist at the European Bioinformatic Institute (EMBL-EBI), and an Associate Fellow of the Higher Education Academy.
 
 </details>
 
-Loïc is an Assistant Research Professor at the University of Cambridge in the Cardiovascular Epidemiology Unit (Department of Public Health and Primary Care) and the VPD Heart and Lung Research Institute. He is a Software Sustainability Institute Fellow, a visiting scientist at EMBL-EBI, a College Associate at Jesus College, Cambridge, and an Associate Fellow of Advance HE.
+Loïc is an Assistant Research Professor in the Department where he leads the Cambridge Sustainable Computing Lab, a research group studying the environmental impacts of computing. Passionate about environmental sustainability and responsible science, he is involved in both research and policy internationally. He is a Software Sustainability Institute Fellow, a visiting scientist at the European Bioinformatic Institute (EMBL-EBI), and an Associate Fellow of the Higher Education Academy.
 
-He first studied in Paris (France) at Lycée Saint-Louis and ENSAE Paris where he earned a BSc and a French _Diplôme d’Ingénieur_ (MSc) majoring in mathematics and statistics, with minors in theoretical physics and economics. He then earned an MSc in statistics and machine learning from the University of Oxford. He joined Cambridge and the Cardiovascular Epidemiology Unit (Dept of Public Health & Primary Care) in 2018 for a PhD in Health Data Science supervised by Prof. Michael Inouye and supported by the MRC-DTP. His PhD, completed in 2022, looked at machine learning tools used to predict protein-protein interactions and the carbon footprint of computational research. From 2022 to December 2024, he continued in Cambridge as a Research Associate to pursue his work on Environmentally Sustainable Computational Science. He started his own research group in the same department at the start of 2025.
+He is also a Director of Studies in Computer Science and a Bye Fellow at Jesus College, Cambridge. 
+
+He first studied in Paris (France) at Lycée Saint-Louis and ENSAE Paris where he earned a BSc and a French Diplôme d’Ingénieur (MSc) majoring in mathematics and statistics, with minors in theoretical physics and economics. He then earned an MSc in statistics and machine learning from the University of Oxford. He joined the department (in the Cardiovascular Epidemiology Unit) in 2018 for a PhD in Health Data Science supervised by Prof. Michael Inouye and supported by the MRC-DTP. His PhD, completed in 2022, looked at machine learning tools used to predict protein-protein interactions and the carbon footprint of computational research. From 2022 to December 2024, he continued in Cambridge as a Research Associate to pursue his work on Environmentally Sustainable Computational Science. He started his own research group in the same department at the start of 2025.
 
 He is also interested in radiogenomics, i.e. combining medical imaging and genetic information with machine learning to better understand and treat cardiovascular diseases. This work is part of the [Cambridge Baker Systems Genomics Initiative](https://www.inouyelab.org/home) led by Prof. Michael Inouye.
 
