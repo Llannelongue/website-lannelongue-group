@@ -1,6 +1,6 @@
 ---
 name: Jack Coker, PhD
-image: 
+image: images/team/jack-coker1.jpg
 role: postdoc
 group: current-members
 aliases:
