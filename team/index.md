@@ -24,13 +24,15 @@ Based in other teams or institutes, they are key contributors to our different p
 
 {% include section.html highlight=true %}
 
+<!--
 #### The Lab is recruiting now!
 
 We are looking for a diverse group of people to bring new and unique perspectives to the different projects of the group.
 
   {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+-->
 
-<!-- We are always happy to hear from talented postdocs and PhD students, more details on the [Join page](/join). -->
+ We are always happy to hear from talented researchers, more details on the [Join page](/join). 
 
 {% include section.html %}
 
